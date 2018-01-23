@@ -1,6 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+This site is dedicated to hacking into John Deere tractors and publishing our findings in an open source manner. The project is through California Polytechnic State University's Capstone I/II class and sponsored by iFixit. Material on this site is protected from DMCA tackedown by a DMCA exemption granted by the US Copyright Office.
+
+For more information about our project email our website team lead at afite@calpoly.edu
+
+More info and docs coming soon.
