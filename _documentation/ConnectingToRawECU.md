@@ -11,7 +11,7 @@ The ECU used for reverse engineering on the test bench is a John Deere part numb
 
 The block diagram for our setup can be found below:
 
-*image soon*
+![Block diagram of our test bench](/images/PrototypeBlockDiagram.png)
 
 # ECU Pin Out
 
@@ -27,7 +27,7 @@ The ECU has a pinout per the table below:
 
 The ECU connectors are left to right resting on a table with the lid off as shown in the image below:
 
-*image*
+![Head on images of the ECU connectors](/images/ECUConnectors.jpg)
 
 \[Connector 1\]\[Connector 2\]
 
