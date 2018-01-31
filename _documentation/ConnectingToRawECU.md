@@ -17,7 +17,13 @@ The block diagram for our setup can be found below:
 
 The ECU has a pinout per the table below:
 
-*table*
+| Pin Location | Usage | Typical Value | Units   |
+|--------------|-------|---------------|---------|
+|B1, B2, E3    |Power  |12             |Volts DC |
+|B1, B2, E3    |Power  |At least 10    |Amps     |
+|C3, C2        |Ground |Ground         |         |
+|L1            |CAN High|              |         |
+|L2            |CAN Low|               |         |
 
 The ECU connectors are left to right resting on a table with the lid off as shown in the image below:
 
