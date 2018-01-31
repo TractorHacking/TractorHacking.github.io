@@ -3,6 +3,11 @@ layout: page
 title: Connecting to the ECU
 ---
 
+# Contents
+{: .no_toc}
+1. TOC
+{:toc}
+
 # ECU Information
 
 Initial reverse engineering efforts occurred on a remanufactured ECU.
