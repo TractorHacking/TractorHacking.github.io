@@ -1,3 +1,8 @@
+---
+layout: page
+title: Connecting to a Live System
+---
+
 # Model Information
 The tractor we connected to was a John Deere model 5055E. We found a CAN-BUS port to the bottom right from the driver's point of view - a picture of it is below.
 
