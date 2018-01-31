@@ -1,14 +1,11 @@
 ---
-layout: default
+layout: page
 title: Contributors
 permalink: /contributors/
 ---
 
-AJ Fite
-afite@calpoly.edu
+AJ Fite - [email](mailto:afite@calpoly.edu) - [website](https://ajfite.com)
 
-Andrew McGuan
-amcguan@calpoly.edu
+Andrew McGuan - [email](mailto:amcguan@calpoly.edu)
 
-Tim Letz
-tletz@calpoly.edu
+Tim Letz - [email](mailto:tletz@calpoly.edu)
