@@ -1,3 +1,8 @@
+---
+layout: page
+title: Connecting to the ECU
+---
+
 # ECU Information
 
 Initial reverse engineering efforts occurred on a remanufactured ECU.
