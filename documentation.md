@@ -11,3 +11,11 @@ Documentation of our efforts to reverse engineer the John Deere CAN bus protocol
   <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
 </ul>
+
+Documentation of individual IDs can be found below:
+
+<ul>
+{% for item in site.idinfo %}
+  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>

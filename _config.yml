@@ -41,3 +41,6 @@ collections:
    documentation:
       output: true
       title: Documentation
+   idinfo:
+      output: true
+      title: ID Information
