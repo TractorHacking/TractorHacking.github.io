@@ -10,4 +10,10 @@ This gh-pages uses a relatively standard Jekyll loadout, check Jekyll docs for m
 
 ## Licenses
 
-This work by https://tractorhacking.github.io is licensed under a Creative Commons Attribution 4.0 International License.
+TractorHacking.github.io (c) by The Tractor Hacking Team
+
+TractorHacking.github.io is licensed under a
+Creative Commons Attribution 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
