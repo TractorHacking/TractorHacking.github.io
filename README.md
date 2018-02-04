@@ -2,6 +2,8 @@
 
 Documentation and site for the California Polytechnic State University, San Luis Obispo Capstone I/II Tractor Hacking project.  Sponsored by iFixit.
 
+The contents of this site can be found online at  https://tractorhacking.github.io/
+
 ## Usage
 
 Documentation inserted under \/\_documentation will automatically be added to the documentation page.  To see how this works see documentation.md.
