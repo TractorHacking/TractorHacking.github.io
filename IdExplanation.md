@@ -11,7 +11,7 @@ the extended 29 bit format is being used.
 
 
 ![SAE J1939 Identifier format](/images/idmap.png)
-Figure 1: A breakdown of the SAE J1939 CAN idenfier format
+
 
 Foremost, the bit numbers being used are under the "CAN 29 BIT ID POSITION" 
 label.
@@ -28,3 +28,9 @@ A breakdown of each field is as follows:
 </ul>
 
 
+
+
+All SAE standard information found through the 
+<a href="https://saemobilus.sae.org/content/j1939_201308">
+Serial Control and Communications Heavy Duty Vehicle Network - Top
+Level Document</a>
