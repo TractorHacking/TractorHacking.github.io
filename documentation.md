@@ -19,3 +19,5 @@ Documentation of individual IDs can be found below:
   <li><a href="{{ item.url }}">{{ item.title }}</a></li>
 {% endfor %}
 </ul>
+
+<li><a href="/IdExplanation">ID Format Explanation</a></li>
