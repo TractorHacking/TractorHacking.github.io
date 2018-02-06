@@ -30,6 +30,10 @@ A breakdown of each field is as follows:
 </ul>
 
 
+The PGN is made up of the PDU Format and PDU Specific concatenated together and converted to decimal.
+A lookup table of PGNs and SPNs is available as J1939AD from the SAE.
+
+
 All SAE standard information found through the 
 <a href="https://saemobilus.sae.org/content/j1939_201308">
 Serial Control and Communications Heavy Duty Vehicle Network - Top
