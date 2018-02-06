@@ -19,15 +19,15 @@ A breakdown of each field is as follows:
 <ul>
  <li>Priority (28-26)- establishes the arbitration priority, highest priority
  being 0 and lowest is seven</li>
- <li>EDP (25)- </li>
- <li>DP (24)- </li>
- <li>PDU Format (23-16)- helps to define the parameter group the message
+ <li>EDP (25) - Extended Data Page: combined with DP to identify different 
+ message definitions</li>
+ <li>DP (24) - Data Page: combined with EDP to identify different message 
+ definitions</li>
+ <li>PDU Format (23-16) - helps to define the parameter group the message
  belongs in. Distinguishes what type of data is being sent</li>
- <li>PDU Specific (15-8)- the address of the message's destination device</li>
- <li>Source Address (7-0)- the address of the message's source device</li>
+ <li>PDU Specific (15-8) - the address of the message's destination device</li>
+ <li>Source Address (7-0) - the address of the message's source device</li>
 </ul>
-
-
 
 
 All SAE standard information found through the 
