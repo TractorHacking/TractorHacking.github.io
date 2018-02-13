@@ -4,3 +4,4 @@ _site/
 .jekyll-metadata
 *.swp
 .directory
+.DS_Store
