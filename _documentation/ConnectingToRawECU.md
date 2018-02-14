@@ -18,6 +18,8 @@ The block diagram for our setup can be found below:
 
 ![Block diagram of our test bench](/images/PrototypeBlockDiagram.png)
 
+[More info on the ECU internals can be found here.](/documentation/ECUInternals)
+
 # ECU Pin Out
 
 The ECU has a pinout per the table below:

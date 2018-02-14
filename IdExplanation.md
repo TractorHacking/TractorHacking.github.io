@@ -34,7 +34,8 @@ The parameter group number (PGN) is an identifier that differentiates between
 types of messages. The messages that share the same PGN are related to each
 other in some way. The PGN is made up of the PDU Format and PDU Specific 
 concatenated together and converted to decimal. A lookup table of PGNs and 
-SPNs is available as J1939AD from the SAE.
+SPNs is available as J1939AD from the SAE, another lookup table of ISO CAN Bus
+standard items can be forund on [isobus.net](https://www.isobus.net).
 
 
 All basic SAE standard information about ID format can be found through the 
