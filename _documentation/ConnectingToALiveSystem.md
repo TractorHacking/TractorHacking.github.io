@@ -36,4 +36,10 @@ The third session allowed us to collect roughly 25 times the data of any previou
 ### Insights
 Data is still being analyzed.
 
+## Scanning Session 4 - 2018-02-15
+In this scanning session we disconnected a variety of sensors in order to check what John Deere's error codes appear as on the CAN network.
+
+### Insights
+Data is still being analyzed.
+
 1: <a name="fn1" href="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1051&context=biosysengdiss">Marx, Samuel E. "Controller Area Network (CAN) Bus J1939 Data Acquisition Methods and Parameter Accuracy Assessment Using Nebraska Tractor Test Laboratory Data"</a>
