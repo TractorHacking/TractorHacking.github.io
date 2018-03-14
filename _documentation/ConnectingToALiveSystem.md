@@ -39,6 +39,14 @@ Data is still being analyzed.
 ## Scanning Session 4 - 2018-02-15
 In this scanning session we disconnected a variety of sensors in order to check what John Deere's error codes appear as on the CAN network.
 
+The three disconnected sensors can be shown in images below:
+
+![Right side of engine sensor unplugged](/images/sensor-right-unplug.jpg)
+
+![Left side of engine sensor unplugged](/images/sensor-left-plug.jpg)
+
+![Center portion of engine sensor unplugged](/images/sensor-center-unplug.jpg)
+
 ### Insights
 Data is still being analyzed.
 
