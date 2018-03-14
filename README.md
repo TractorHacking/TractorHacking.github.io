@@ -3,7 +3,6 @@
 Documentation and site for the California Polytechnic State University, San Luis Obispo Capstone I/II Tractor Hacking project.  Sponsored by iFixit.
 
 The contents of this site can be found online at  https://tractorhacking.github.io/ and mirrored at https://tractorhacking.projects.ajfite.com
-i
 
 Mirror build status: [![Build Status](https://build.nclf.net/buildStatus/icon?job=TractorHacking.github.io/master)](https://build.nclf.net/job/TractorHacking.github.io/master)
 
