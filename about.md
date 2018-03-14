@@ -6,6 +6,8 @@ permalink: /about/
 
 For more information about our project email our website team lead at [afite@calpoly.edu](emailto:afite@calpoly.edu)
 
+A poster explaining the project for the Cal Poly Capstone Expo can be downloaded [here](/files/poster.pdf).
+
 # Sponsors
 
 [![iFixit](/images/ifixit.png)](https://www.ifixit.com/) [![Cal Poly Computer Engineering](/images/cpe.jpg)](https://cpe.calpoly.edu/)
