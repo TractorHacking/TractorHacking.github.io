@@ -14,10 +14,18 @@ This document serves as a quick start guide for those to pick up this work after
 
 ## Tractor Electronics Layout
 
-
 #### Navigating the John Deere Manuals
 
 ## Connecting to a Tractor
+
+Most automobiles have an OBD-II port, which is a standard rectangular connector and communication protocol that
+allows users to tap into their car's communication. The simpler John Deere tractors do not have this port, but they
+have something similar. It is a circular port that exposes the CAN high and low wires, as well as ground and a few
+other signals that aren't needed for this project. Below are images of the connector on the John Deere 5055E tractor, 
+and its associated pin diagram.
+
+![CAN Connector on the John Deere 5055E](/images/can_port_5055e.jpg)
+![Pinout of the CAN cable used to connect to the tractor](/images/can_connector_pinout.png)
 
 ## ECU Internals
 
@@ -48,3 +56,12 @@ SAE database:
 [SAE Database](https://saemobilus-sae-org.ezproxy.lib.calpoly.edu/search/)
 
 ## Using the Filtering Scripts
+
+Initially, we decided to make a quick script to look through the files gathered from the tractor and look for
+certain CAN IDs, especially ones that appear frequently. This script kept growing in functionality as more 
+features were needed. This is going to be a useful piece of software: although there are existing programs that
+already parse live CAN data (such as [python-OBD](http://python-obd.readthedocs.io/en/latest/), we needed one that 
+would give us information about the data we saved. The final script and information about how to use it can be 
+found on our pubic repository linked below.
+
+[Tractor Hacking Scripts](https://github.com/TractorHacking/Scripts/tree/master/tractordata_parse)
