@@ -14,10 +14,11 @@ Documentation of our efforts to reverse engineer the John Deere CAN bus protocol
 
 Documentation of individual CAN-BUS IDs extracted from the tractor can be found below:
 
+<p style="text-indent:1em"><a href="/IdExplanation">CAN-Bus ID Format Explanation</a></p>
+
 <ul>
 {% for item in site.idinfo %}
   <li><a href="{{ item.url }}"><span style="font-family:monospace">{{ item.title }}</span> - {{item.description}}</a></li>
 {% endfor %}
 </ul>
 
-<p style="text-indent:1em"><a href="/IdExplanation">CAN-Bus ID Format Explanation</a></p>
