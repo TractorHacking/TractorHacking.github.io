@@ -27,6 +27,8 @@ and its associated pin diagram.
 ![CAN Connector on the John Deere 5055E](/images/can_port_5055e.jpg)
 ![Pinout of the CAN cable used to connect to the tractor](/images/can_connector_pinout.png)
 
+
+
 ## ECU Internals
 
 ## Finding SAE Documents
