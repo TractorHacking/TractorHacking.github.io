@@ -25,9 +25,23 @@ other signals that aren't needed for this project. Below are images of the conne
 and its associated pin diagram.
 
 ![CAN Connector on the John Deere 5055E](/images/can_port_5055e.jpg)
+CAN connector on the John Deere 5055E tractor.
 ![Pinout of the CAN cable used to connect to the tractor](/images/can_connector_pinout.png)
+Pinout of the cable used to connect the scope probes to the tractor.
 
+The cable used to connect to this port on the tractor was supplied by iFixit. It features the circular attachment
+needed to connect to the tractor, and a rectangular connector on the other side, that looks similar to an 
+automotive OBD-II port but with different dimensions. Each pin on this connector is easy to read with scope probes,
+which is the main reason why this was used in the first place. Unfortunately there was no documentation on the 
+pinout of the rectangular connector, so we used trial and error to identify the CAN high, low, and ground connections
+on this attachment. The image below shows a picture of the rectangular connector and our deduced pinout.
 
+![Pin Annotations](/images/pin_annotations.jpg)
+The annotated connector, showing the CANH, CANL, and ground.
+
+To gather jand decode the CAN packets, an oscilloscope was used to display and save everything. The scope used for
+this project is a Keysight MSO-X 2012A InfiniiVision Oscilloscope, with the serial decoding license installed. 
+This product is available through the Cal Poly electrical engineering equipment checkout window.  
 
 ## ECU Internals
 
