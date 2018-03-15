@@ -24,7 +24,7 @@ so far use the 29-bit extended format. An image breaking down the id is shown be
 The identifier contains multiple parts that are important to the message.
 * DP/EDP - Data Page/Extended Data Page, used to specify the page the specified PGN lies on
 * PDU Format (PF) - Makes up the most significant byte of the PGN, plus acts as a specifier for the format of the PGN. 
-If the PF is F0 or greater, then the PGN falls in the PDU2 format. If it is less than F0, it is the PDU1 format.
+If the PF is 0xF0 or greater, then the PGN falls in the PDU2 format. If it is less than 0xF0, it is the PDU1 format.
 * PDU Specific (PS) - In PDU1 format, the PS acts as the destination address. Used if the message is meant for a specific controller only.
 In PDU2 format, the PS is appended to the PF to form the complete PGN.
 * Source Address - Specifies the controller the message originated from.
