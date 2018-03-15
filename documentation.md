@@ -16,7 +16,7 @@ Documentation of individual CAN-BUS IDs extracted from the tractor can be found 
 
 <ul>
 {% for item in site.idinfo %}
-  <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+  <li><a href="{{ item.url }}">{{ item.title }} - {{item.description}}</a></li>
 {% endfor %}
 </ul>
 
