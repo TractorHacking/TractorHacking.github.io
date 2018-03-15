@@ -1,3 +1,8 @@
+---
+layout: page
+title: User Manual
+---
+
 # Usage
 
 This document serves as a quick start guide for those to pick up this work after we have finished ours. 
@@ -10,7 +15,7 @@ This document serves as a quick start guide for those to pick up this work after
 ## Tractor Electronics Layout
 
 
-### Navigating the John Deere Manuals
+#### Navigating the John Deere Manuals
 
 ## Connecting to a Tractor
 
