@@ -1,6 +1,7 @@
 ---
 layout: page
 title: User Manual
+permalink: /usage/
 ---
 
 # Usage
