@@ -37,6 +37,7 @@ header_pages:
    - data.md
    - documentation.md
    - contributors.md
+   - usage.md
 
 collections:
    documentation:

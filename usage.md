@@ -1,6 +1,7 @@
 ---
 layout: page
 title: User Manual
+permalink: /usage/
 ---
 
 # Usage
@@ -81,3 +82,15 @@ would give us information about the data we saved. The final script and informat
 found on our pubic repository linked below.
 
 [Tractor Hacking Scripts](https://github.com/TractorHacking/Scripts/tree/master/tractordata_parse)
+
+## Using the GitHub Pages Website
+
+This website is based on GitHub Pages and Jekyll a Ruby flat-file site generator.
+Documentation for Jekyll can be [found here](https://jekyllrb.com/docs/home/) and GitHub pages documentation can
+be [found here](https://help.github.com/pages/).  The site's [README.md](https://github.com/TractorHacking/TractorHacking.github.io/blob/master/README.md) has further
+notes and information on site layout and functions.
+
+### Compiling on Third Party Build Servers
+
+The site is set up to be compiled easily on third party build servers, an example
+deployment pipeline can be found in the project's [Jenkinsfile](https://github.com/TractorHacking/TractorHacking.github.io/blob/master/Jenkinsfile).
