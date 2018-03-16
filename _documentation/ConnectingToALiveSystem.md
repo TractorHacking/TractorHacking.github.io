@@ -30,8 +30,9 @@ Although the paper written by Marx does not focus on the architecture of the com
 
 SAE offers a lookup table for the J1939 protocol CAN IDs, including the expected type of data being sent in each id, and what attribute each byte in the data packet represents. This is incredibly helpful for our causes. It allows us to focus on what types of messages make the tractor go wrong, rather than trying to decode a brand new protocol that John Deere created themselves. To confirm that this protocol carries over, we checked the messages send in this second data gathering session with the lookup table and verified that everything made sense. For example, the fourth and fifth data bytes of a message sent through the 0CF00400 ID is supposed to contain engine speed data. We had noted down what the enginer RPM was when the tractor was idling at low vs. high throttle, roughly 950 RPM vs. 1300 RPM. These bytes, along with all others we tested, matched the documentation, indicating that this tractor was as well using the SAE J1939 protocol.
 
+
 ## Scanning Session 3 - 2018-02-08
-The third session allowed us to collect roughly 25 times the data of any previous session via the Segmented Capture feature of the Keysight scope.  This allowed capture of just short of 10 seconds of data from data capture start to end, significantly more than the 200ms from the previous session.  Testing setup remained the same from session one besides the scope configuration change.
+The third session allowed us to collect roughly 25 times the data of any previous session via the Segmented Capture feature of the Keysight scope.  This allowed capture of just short of 10 seconds of data from data capture start to end, significantly more than the 200ms from the previous session.  Testing setup remained the same from session one besides the scope configuration change. The raw data can be found on our [raw data GitHub repo](https://github.com/TractorHacking/CAN-data/tree/master/2018-01-31-Day2WithTractor).
 
 ### Insights
 Data is still being analyzed.
@@ -46,6 +47,8 @@ The three disconnected sensors can be shown in images below:
 ![Left side of engine sensor unplugged](/images/sensor-left-plug.jpg)
 
 ![Center portion of engine sensor unplugged](/images/sensor-center-unplug.jpg)
+
+The raw data can be found on our [raw data GitHub repo](https://github.com/TractorHacking/CAN-data/tree/master/2018-01-31-Day2WithTractor).
 
 ### Insights
 Data is still being analyzed.
