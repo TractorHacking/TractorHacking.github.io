@@ -11,10 +11,6 @@ This document serves as a quick start guide for those to pick up this work after
 1. TOC
 {:toc}
 
-## Tractor Electronics Layout
-
-#### Navigating the John Deere Manuals
-
 ## Connecting to a Tractor
 
 Most automobiles have an OBD-II port, which is a standard rectangular connector and communication protocol that
