@@ -4,8 +4,6 @@ title: User Manual
 permalink: /usage/
 ---
 
-# Usage
-
 This document serves as a quick start guide for those to pick up this work after we have finished ours. 
 
 ## Contents
@@ -44,9 +42,19 @@ on this attachment. The image below shows a picture of the rectangular connector
 
 The annotated connector, showing the CANH, CANL, and ground.
 
-To gather jand decode the CAN packets, an oscilloscope was used to display and save everything. The scope used for
+To gather and decode the CAN packets, an oscilloscope was used to display and save everything. The scope used for
 this project is a Keysight MSO-X 2012A InfiniiVision Oscilloscope, with the serial decoding license installed. 
 This product is available through the Cal Poly electrical engineering equipment checkout window.  
+
+If you are using the previously mentioned scope for this, it is simple to display the feed of CAN data on the screen. 
+Although CAN uses two wires for communication, the scope only needs CANH to decode the packets. Connect port 1 of the 
+scope to the CANH pin shown in the picture above, and connect scope ground to tractor ground.
+
+If you turn on the tractor, you will see a live feed of the CANH line, alternating between 2.5V and 5V to indicate zeroes 
+and ones. To instruct the scope to identify this as CAN data, press the 'Serial' key on the right side of the scope. 
+Using the front softkeys, change the 'Mode' to 'CAN'. Select 'Signals', and change the baud rate to 250Kb/s. Return to 
+the previous window. Press the 'Lister' button, which will bring up a grid that displays a live feed of the CAN data, 
+broken down into its ID, data, and other components. 
 
 ## ECU Internals
 
