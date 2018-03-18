@@ -17,3 +17,5 @@ A poster explaining the project for the Cal Poly Capstone Expo can be downloaded
 <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/images/by.svg" /></a>
 
 <a xmlns:cc="http://creativecommons.org/ns#" href="https://tractorhacking.github.io" property="cc:attributionName" rel="cc:attributionURL">https://tractorhacking.github.io</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+Software developed for this project is released under the MIT License, see the software GitHub repositories for more license information. 
