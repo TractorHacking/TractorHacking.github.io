@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This site is dedicated to hacking into John Deere tractors and publishing
   our findings in an open source manner.  The project is through California
   Polytechnic State University's Capstone I/II class and sponsored by iFixit.
-  Material on this site is protected from DMCA tackedown by a DMCA exemption
+  Material on this site is protected from DMCA takedown by a DMCA exemption
   granted by the US Copyright Office.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tractorhacking.github.io" # the base hostname & protocol for your site, e.g. http://example.com
