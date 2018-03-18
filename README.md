@@ -4,7 +4,7 @@ Documentation and site for the California Polytechnic State University, San Luis
 
 The contents of this site can be found online at  https://tractorhacking.github.io/ and mirrored at https://tractorhacking.projects.ajfite.com
 
-Mirror build status: [![Build Status](https://build.nclf.net/buildStatus/icon?job=TractorHacking.github.io/master)](https://build.nclf.net/job/TractorHacking.github.io/master)
+Mirror build status:  [![Build Status](https://build.nclf.net/buildStatus/icon?job=TractorHacking.github.io/master)](https://build.nclf.net/job/TractorHacking.github.io/job/master/)
 
 
 ## Usage
