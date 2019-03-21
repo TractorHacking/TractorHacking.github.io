@@ -37,8 +37,8 @@ Once you have selected the correct menu option it will prompt you to enter a log
 # How to operate the GreenBoard
 To connect the board to a CAN network you will need to connect the CAN high and CAN low data lines to the board. The proper way to connect these lines to the board is shown in the following image. After connecting the board to a CAN network, you can get started with sending or receiving commands.
 
-<div style="margin:center;"><img src="/images/GreenBoard.png" alt="GreenBoard" width="500"/></div>
-<div style="margin:center;">jCOM Board board breakdown with the terminals used to attach to CAN device highlighted</div>
+<div style="margin:auto;"><img src="/images/GreenBoard.png" alt="GreenBoard" width="500"/></div>
+<div style="text-align:center;">jCOM Board board breakdown with the terminals used to attach to CAN device highlighted</div>
 
 
 Once the application is running you need to select the correct COM port that the board is connected to. If the application successfully connected to the board then you will see text appearing in big text box of adding a filter to the board. This means that the board is ready and already listening for any CAN traffic. By default the application saves all commands found in a csv log file in the directory: polyCan_jCOM/polyCan_jCOM/bin/Release/logs/  with a unique name depended on the timestamp of when you started recording.
