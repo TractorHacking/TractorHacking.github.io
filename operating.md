@@ -6,8 +6,9 @@ permalink: /operating/
 # How to connect to a tractor
 To connect to a tractor you will need a computer running the PolyCan program, the CANable board, and some way to connect to the j1939 OBD II connector on the tractor. We used a j1939 OBD II cable that we then spliced two of the data lines that we actually concerned with. If possible we recommend this solution as tring to just jamn some wires into the tractors female j1939 OBD II connector is more risky (chance of connecting to the wrong port), and does not create as good of a connection. 
 
-<div style="float:center;"><img src="/images/can_connector_pinout.png" alt="connector" width="500"/></div>
-<div style="float:center;">An example of the j1939 OBD II connector and the pinout</div>
+<div style="margin:0auto;"><img src="/images/can_connector_pinout.png" alt="connector" width="500"/></div>
+<div style="text-align;">An example of the j1939 OBD II connector and the pinout</div>
+
 
 There is only two pins that we need to actually connect to, the CAN high and CAN low data line. 
 In the following figure these two lines correspond to Pin C and Pin D.
@@ -38,6 +39,7 @@ To connect the board to a CAN network you will need to connect the CAN high and 
 
 <div style="margin:center;"><img src="/images/GreenBoard.png" alt="GreenBoard" width="500"/></div>
 <div style="margin:center;">jCOM Board board breakdown with the terminals used to attach to CAN device highlighted</div>
+
 
 Once the application is running you need to select the correct COM port that the board is connected to. If the application successfully connected to the board then you will see text appearing in big text box of adding a filter to the board. This means that the board is ready and already listening for any CAN traffic. By default the application saves all commands found in a csv log file in the directory: polyCan_jCOM/polyCan_jCOM/bin/Release/logs/  with a unique name depended on the timestamp of when you started recording.
 
