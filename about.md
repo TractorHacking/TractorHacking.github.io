@@ -24,10 +24,9 @@ For more information about our project email our website team lead at [afite@cal
 A poster explaining the project for the Cal Poly Capstone Expo can be downloaded [here](/files/poster1819.pdf).
 
 # Sponsors
-<div style="float:right;"><a href="https://www.ifixit.com/"><img src="/images/ifixit.png" alt="iFixit" width="200"/></a></div>
+<div style="float:right;"><a href="https://www.ifixit.com/"><img src="/images/ifixit.png" alt="iFixit" width="250"/></a></div>
 iFixit provides a worldwide database of repair guides as well as high quality repair parts and tools. They have a history challenging over-restrictive policies that limit the customer's ability to repair their own products. Our project falls within this mission by doing research that will lead to documentation of diagnostic codes and the possibility of replacement parts for John Deere tractors.
 
-[![iFixit](/images/ifixit.png)](https://www.ifixit.com/) 
 
 # License
 
