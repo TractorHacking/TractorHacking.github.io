@@ -3,7 +3,7 @@ layout: page
 title: About Tractor Hacking
 permalink: /about/
 ---
-<div style="float:right;"><img src="/images/capstone.png" alt="CalPolyComputerEngineering" width="200"/></div>
+<div style="float:right;"><a href="https://cpe.calpoly.edu/"><img src="/images/capstone.png" alt="CalPolyComputerEngineering" /></a></div>
 
 
 # Our Mission
