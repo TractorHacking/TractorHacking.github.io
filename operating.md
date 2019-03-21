@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Operating
+title: Operate
 permalink: /operating/
 ---
 # How to connect to a tractor
 To connect to a tractor you will need a computer running the PolyCan program, the CANable board, and some way to connect to the j1939 OBD II connector on the tractor. We used a j1939 OBD II cable that we then spliced two of the data lines that we actually concerned with. If possible we recommend this solution as tring to just jamn some wires into the tractors female j1939 OBD II connector is more risky (chance of connecting to the wrong port), and does not create as good of a connection. 
 
-<div style="float:center;"><img src="/images/can_connector_pinout.png" alt="connector" width="500"/></div>
+<div style="margin:auto;"><img src="/images/can_connector_pinout.png" alt="connector" width="500"/></div>
 An example of the j1939 OBD II connector and the pinout
 
 There is only two pins that we need to actually connect to, the CAN high and CAN low data line. 
