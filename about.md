@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-[![Cal Poly Computer Engineering](/images/capstone.jpg)](https://cpe.calpoly.edu/)
+[![Cal Poly Computer Engineering](/images/capstone.png)](https://cpe.calpoly.edu/)
 # Our Mission
 
 We are studying the CAN bus of John Deere tractors. If we can understand the communication protocol of the John Deere CAN bus messages, we could begin to learn important diagnostic codes through experimentation. We will be collecting large amounts data from tractors to uncover and interpret the proprietary communication commands. To aid in this pursuit, we have  designed a diagnostic tool, PolyCAN, that will assist us and future projects in gathering data. We have also begun early development on an ECU test bench with a simulated CAN network called GreenBoard.
