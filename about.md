@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+[![Cal Poly Computer Engineering](/images/capstone.jpg)](https://cpe.calpoly.edu/)
 # Our Mission
 
 We are studying the CAN bus of John Deere tractors. If we can understand the communication protocol of the John Deere CAN bus messages, we could begin to learn important diagnostic codes through experimentation. We will be collecting large amounts data from tractors to uncover and interpret the proprietary communication commands. To aid in this pursuit, we have  designed a diagnostic tool, PolyCAN, that will assist us and future projects in gathering data. We have also begun early development on an ECU test bench with a simulated CAN network called GreenBoard.
@@ -25,13 +25,13 @@ GreenBoard is the beginning of a tractor simulator program that lets us simulate
 
 For more information about our project email our website team lead at [afite@calpoly.edu](emailto:afite@calpoly.edu)
 
-A poster explaining the project for the Cal Poly Capstone Expo can be downloaded [here](/files/poster.pdf).
+A poster explaining the project for the Cal Poly Capstone Expo can be downloaded [here](/files/poster1819.pdf).
 
 # Sponsors
 
 iFixit provides a worldwide database of repair guides as well as high quality repair parts and tools. They have a history challenging over-restrictive policies that limit the customer's ability to repair their own products. Our project falls within this mission by doing research that will lead to documentation of diagnostic codes and the possibility of replacement parts for John Deere tractors.
 
-[![iFixit](/images/ifixit.png)](https://www.ifixit.com/) [![Cal Poly Computer Engineering](/images/cpe.jpg)](https://cpe.calpoly.edu/)
+[![iFixit](/images/ifixit.png)](https://www.ifixit.com/) 
 
 # License
 
