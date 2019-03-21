@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About
+title: About Tractor Hacking
 permalink: /about/
 ---
-[![Cal Poly Computer Engineering](/images/capstone.png)](https://cpe.calpoly.edu/)
+<div style="float:right;"><img src="/images/capstone.png" alt="CalPolyComputerEngineering" width="200"/></div>
+
+
 # Our Mission
 We are studying the CAN bus of John Deere tractors. If we can understand the communication protocol of the John Deere CAN bus messages, we could begin to learn important diagnostic codes through experimentation. We will be collecting large amounts data from tractors to uncover and interpret the proprietary communication commands. To aid in this pursuit, we have  designed a diagnostic tool, PolyCAN, that will assist us and future projects in gathering data. We have also begun early development on an ECU test bench with a simulated CAN network called GreenBoard.
 
@@ -12,6 +14,8 @@ The first goal of this project was to get an idea of how the John Deere CAN bus 
 
 # PolyCAN
 PolyCAN is a diagnostic tool that enables communication on the John Deere CAN bus. It allows anyone with a linux machine to record all messages on the CAN bus and analyze the payload of these messages. With PolyCAN, one can also send messages on the bus to communicate with the tractor computer systems. PolyCAN features a clear command line interface and features a variety of diagnostic tools. To use PolyCAN.
+
+[![Cal Poly Computer Engineering](/images/capstone.png)](https://cpe.calpoly.edu/)
 
 # GreenBoard
 GreenBoard is the beginning of a tractor simulator program that lets us simulate a CAN network. When connected to a tractor ECU, this test bench could allow us to someday analyze the protocol more systematically and incorporate other methods of analysis and penetration testing that are so invasive that they cannot be performed on a working tractor.
