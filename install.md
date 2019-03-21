@@ -14,12 +14,14 @@ Once you have a linux environment with python 3, open terminal and run the follo
 
 You should see the installation take place. Once it is finished, type ‘polycan’ to run the program. 
 
+
 # How to install the CANable board
 The CANable board works on linux. Before you can connect to the board verify that you have installed net-tools and socketcan. The easiest way to install socketcan is to install can-utils, which includes a nice toolset for interacting with the CAN bus. We have implemented many of the features available in can-utils like the ability to listen and playback logs. 
 
 The firmware that comes installed onto the CANable board by default is not what we use. It comes with slcan firmware, however this is slower as this creates a virtual CAN device instead of a native CAN device. In order to put the different firmware onto the board follow CANable’s documentation on flashing candlelight firmware found here, under section “Alternative Firmware”: [CANable](https://canable.io/getting-started.html)
 
 Everything is installed now to [operate](/operating/) the CANable board.
+
 
 # How to install the GreenBoard
 The J1939 ECU simulator board or we call it the ‘GreenBoard’ can be found here: [GreenBoard](https://copperhilltech.com/sae-j1939-ecu-simulator-board-with-usb-port/)
