@@ -1,10 +1,9 @@
 ---
 layout: page
 title: About Tractor Hacking
+<div style="float:right;"><a href="https://cpe.calpoly.edu/"><img src="/images/capstone.png" alt="CalPolyComputerEngineering" /></a></div>
 permalink: /about/
 ---
-<div style="float:right;"><a href="https://cpe.calpoly.edu/"><img src="/images/capstone.png" alt="CalPolyComputerEngineering" /></a></div>
-
 
 # Our Mission
 We are studying the CAN bus of John Deere tractors. If we can understand the communication protocol of the John Deere CAN bus messages, we could begin to learn important diagnostic codes through experimentation. We will be collecting large amounts data from tractors to uncover and interpret the proprietary communication commands. To aid in this pursuit, we have  designed a diagnostic tool, PolyCAN, that will assist us and future projects in gathering data. We have also begun early development on an ECU test bench with a simulated CAN network called GreenBoard.
