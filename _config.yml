@@ -35,6 +35,7 @@ plugins:
 header_pages:
    - about.md
    - install.md
+   - operating.md
    - data.md
    - documentation.md
    - contributors.md
