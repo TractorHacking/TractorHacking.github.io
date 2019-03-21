@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Tractor Hacking
+title: About
 permalink: /about/
 ---
 <div style="float:right;"><a href="https://cpe.calpoly.edu/"><img src="/images/capstone.png" alt="CalPolyComputerEngineering" width="200"/></a></div>
@@ -14,8 +14,6 @@ The first goal of this project was to get an idea of how the John Deere CAN bus 
 # PolyCAN
 PolyCAN is a diagnostic tool that enables communication on the John Deere CAN bus. It allows anyone with a linux machine to record all messages on the CAN bus and analyze the payload of these messages. With PolyCAN, one can also send messages on the bus to communicate with the tractor computer systems. PolyCAN features a clear command line interface and features a variety of diagnostic tools. To use PolyCAN.
 
-[![Cal Poly Computer Engineering](/images/capstone.png)](https://cpe.calpoly.edu/)
-
 # GreenBoard
 GreenBoard is the beginning of a tractor simulator program that lets us simulate a CAN network. When connected to a tractor ECU, this test bench could allow us to someday analyze the protocol more systematically and incorporate other methods of analysis and penetration testing that are so invasive that they cannot be performed on a working tractor.
 
@@ -26,6 +24,7 @@ For more information about our project email our website team lead at [afite@cal
 A poster explaining the project for the Cal Poly Capstone Expo can be downloaded [here](/files/poster1819.pdf).
 
 # Sponsors
+<div style="float:right;"><a href="https://www.ifixit.com/"><img src="/images/ifixit.png" alt="iFixit" width="200"/></a></div>
 iFixit provides a worldwide database of repair guides as well as high quality repair parts and tools. They have a history challenging over-restrictive policies that limit the customer's ability to repair their own products. Our project falls within this mission by doing research that will lead to documentation of diagnostic codes and the possibility of replacement parts for John Deere tractors.
 
 [![iFixit](/images/ifixit.png)](https://www.ifixit.com/) 
