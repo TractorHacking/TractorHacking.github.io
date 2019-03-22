@@ -1,6 +1,7 @@
 ---
 layout: page
 title: PolyCAN Developer's Guide
+permalink: /polycan/developer/
 ---
 # Overview
 The PolyCan program integrates interaction with a CAN network via the CANable board. This board takes two wires CAN high and CAN low data lines and appears as a native linux CAN device. In order to setup the board to connect one needs to set the bitrate for the can device and to enable the device, both of these features is implemented in the bringUp bash script located in polyCan/CANable directory. If the operation is successful no warnings should be printed to the screen, and the CANable light should turn off. To disconnect the board there is a corresponding script putDown that will disconnect the device. Note both of these bash scripts need superuser privileges to operate correctly. 
