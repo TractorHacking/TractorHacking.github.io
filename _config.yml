@@ -45,6 +45,9 @@ collections:
    polycan:
       output: true
       title: PolyCAN
+   greenboard:
+      output: true
+      title: GreenBoard
    documentation:
       output: true
       title: Documentation
