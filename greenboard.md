@@ -41,3 +41,6 @@ To send a command you first need to load a log file you want to send. The button
 
 If for any reason during operation of the board you see the 3 status green lights stay on without any flashing and are having troubles communicating with it, this means that the board got locked up. A problem that we have not been able to prevent. The solution to this is the unplug the board, wait about 5 seconds then plug the board back in. This should reset the board back to an operational state.
 
+# Additional Information
+
+For more detailed information about GreenBoard please see the [GreenBoard Developer Guide](/greenboard/developer/)
