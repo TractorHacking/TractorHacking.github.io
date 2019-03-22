@@ -3,7 +3,7 @@ layout: page
 title: PolyCAN
 permalink: /polycan/
 ---
-# PolyCAN
+# Getting started with PolyCAN
 PolyCAN is a diagnostic tool that enables communication on the John Deere CAN bus. It allows anyone with a linux machine to record all messages on the CAN bus and analyze the payload of these messages. With PolyCAN, one can also send messages on the bus to communicate with the tractor computer systems. PolyCAN features a clear command line interface and features a variety of diagnostic tools:
 
 # Contents

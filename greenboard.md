@@ -3,11 +3,13 @@ layout: page
 title: GreenBoard
 permalink: /greenboard/
 ---
-# GreenBoard
+# Getting started wtih GreenBoard
 GreenBoard is the beginning of a tractor simulator program that lets us simulate a CAN network. When connected to a tractor ECU, this test bench could allow us to someday analyze the protocol more systematically and incorporate other methods of analysis and penetration testing that are so invasive that they cannot be performed on a working tractor:
 
-[How to install the GreenBoard software](# How to install the GreenBoard software]
-[How to operate the GreenBoard](# How to operate the GreenBoard)
+# Contents
+{: .no_toc}
+1. TOC
+{:toc}
 
 # How to install the GreenBoard software
 The J1939 ECU simulator board or we call it the ‘GreenBoard’ can be found here: [GreenBoard](https://copperhilltech.com/sae-j1939-ecu-simulator-board-with-usb-port/)
