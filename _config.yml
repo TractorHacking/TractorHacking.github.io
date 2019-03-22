@@ -42,6 +42,9 @@ header_pages:
    - usage.md
 
 collections:
+   polycan:
+      output: true
+      title: PolyCAN
    documentation:
       output: true
       title: Documentation
