@@ -16,7 +16,7 @@ Thre GreenBoard program is a very early stage implementation of an ECU simulator
 # Testbench Use
 To operate the test bench you will need to connect the CANable board and the jCOM ECU simulator board or the “GreenBoard”  to each other as shown in the following picture. Make sure the terminating jumper on the CANable board is set in the position facing away from the micro-usb port:
    
-
+![Testbench Setup](/images/testbench.jpg)
 
 Once you have the two boards connected you should be able to transmit and receive logs between then as if you were connected to a tractor. This is very useful for verifying that all software/hardware is working before trying to interact with the tractor. 
 
