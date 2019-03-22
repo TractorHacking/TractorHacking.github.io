@@ -12,16 +12,16 @@ GreenBoard is the beginning of a tractor simulator program that lets us simulate
 {:toc}
 
 # How to install the GreenBoard software
-The J1939 ECU simulator board or we call it the ‘GreenBoard’ can be found here: [GreenBoard](https://copperhilltech.com/sae-j1939-ecu-simulator-board-with-usb-port/)
+The J1939 ECU simulator board or we call it the ‘GreenBoard’ can be found [here.](https://copperhilltech.com/sae-j1939-ecu-simulator-board-with-usb-port/)
 This board interacts with a windows application. The windows application can be found here:
 Github for windows APPPPPPPPPPPP
 
-In order to connect with the board you first need to download the driver for it. The drive can be found here:
-[GreenBpardDriver](https://copperhilltech.com/blog/connecting-the-jcomj1939usb-board-hardware/)
+In order to connect with the board you first need to [download the driver for it.](https://copperhilltech.com/blog/connecting-the-jcomj1939usb-board-hardware/)
 Once the driver is installed you should be able to run the windows application located at following location: 
-polyCan_jCOM/polyCan_jCOM/bin/Release/polyCan_jCOM.exe
 
-Everything is installed now to [operate](/operating/) the GreenBoard.
+     polyCan_jCOM/polyCan_jCOM/bin/Release/polyCan_jCOM.exe
+
+Everything is installed now to operate the GreenBoard.
 
 
 # How to operate the GreenBoard
@@ -40,3 +40,4 @@ Even though you claimed an address you will still be able to transmit logs with 
 To send a command you first need to load a log file you want to send. The button “Load Log” will open a file selector window. Once you choose an appropriate log file, to being transmitting click the “Transmit Log” button. This will send out the commands as fast as the board allows. 
 
 If for any reason during operation of the board you see the 3 status green lights stay on without any flashing and are having troubles communicating with it, this means that the board got locked up. A problem that we have not been able to prevent. The solution to this is the unplug the board, wait about 5 seconds then plug the board back in. This should reset the board back to an operational state.
+
