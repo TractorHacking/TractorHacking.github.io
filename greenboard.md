@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GreenBoard
-permalink: /greenboard_dev/
+permalink: /greenboard/
 ---
 # Getting started wtih GreenBoard
 GreenBoard is the beginning of a tractor simulator program that lets us simulate a CAN network. When connected to a tractor ECU, this test bench could allow us to someday analyze the protocol more systematically and incorporate other methods of analysis and penetration testing that are so invasive that they cannot be performed on a working tractor:
