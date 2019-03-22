@@ -7,7 +7,7 @@ permalink: /contributors/
 
 Maksim Bondaruk - [mbondaru@calpoly.edu](mailto:mbondaru@calpoly.edu)
 
-Sam Malicoat - 
+Sam Malicoat - [samlicoa@calpoly.edu](mailto:samlicoa@calpoly.edu)
 
 Morgan Swanson - [msswanso@calpoly.edu](mailto:msswanso@calpoly.edu) 
 
