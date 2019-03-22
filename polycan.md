@@ -72,4 +72,4 @@ Showing one entry of a log compared to another. (From left to right: index, PGN,
 
 # Additional Information
 
-For more detailed information about PolyCAN please see the [PolyCAN Developer Guide](/polycan_dev/)
+For more detailed information about PolyCAN please see the [PolyCAN Developer Guide](/polycan/developer)
