@@ -16,6 +16,7 @@ The first goal of this project was to get an idea of how the John Deere CAN bus 
 PolyCAN is a diagnostic tool that enables communication on the John Deere CAN bus. It allows anyone with a linux machine to record all messages on the CAN bus and analyze the payload of these messages. With PolyCAN, one can also send messages on the bus to communicate with the tractor computer systems. PolyCAN features a clear command line interface and features a variety of diagnostic tools. PolyCAN was developed by the 2018-2019 interation and is held under the 'PolyCAN' tab. 
 
 [Getting started with PolyCAN](/polycan/) 
+
 [PolyCAN Developer Guide](/polycan_dev/)
 
 
@@ -23,12 +24,14 @@ PolyCAN is a diagnostic tool that enables communication on the John Deere CAN bu
 GreenBoard is the beginning of a tractor simulator program that lets us simulate a CAN network. When connected to a tractor ECU, this test bench could allow us to someday analyze the protocol more systematically and incorporate other methods of analysis and penetration testing that are so invasive that they cannot be performed on a working tractor. To use GreenBoard, click the 'GreenBoard' tab.
 
 [Getting started with GreenBoard](/greenboard/)
+
 [GreenBoard Technical Documentation](/greenboard_dev/)
 
 # Contact
 A poster explaining each iteration of the project for the Cal Poly Capstone Expo can be downloaded below:
    
    [2017-2018](/files/poster.pdf)
+
    [2018-2019](/files/poster1819.pdf) 
 
 
