@@ -40,6 +40,8 @@ header_pages:
    - documentation.md
    - contributors.md
    - usage.md
+   - polycan.md
+   - greenboard.md
 
 collections:
    documentation:
