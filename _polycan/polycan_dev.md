@@ -3,7 +3,6 @@ layout: page
 title: PolyCAN Developer's Guide
 permalink: /polycan/developer/
 ---
-
 # Overview
 The PolyCan program integrates interaction with a CAN network via the CANable board. This board takes two wires CAN high and CAN low data lines and appears as a native linux CAN device. In order to setup the board to connect one needs to set the bitrate for the can device and to enable the device, both of these features is implemented in the bringUp bash script located in polyCan/CANable directory. If the operation is successful no warnings should be printed to the screen, and the CANable light should turn off. To disconnect the board there is a corresponding script putDown that will disconnect the device. Note both of these bash scripts need superuser privileges to operate correctly. 
 The part of the software that deals with the CANable board transfers data through .csv files with the format of our log files. Then once the software finishes listening to the CAN network it passes the .csv file to other parts of the code to perform all of the log analysis.
@@ -17,7 +16,8 @@ The part of the software that deals with the CANable board transfers data throug
 
 # How we find new unknown commands
 One of our goals was to develop a method to be able to decode unknown commands we receive from the CANBus. This was achieved by the direct comparison of logs with only slightly different conditions. For testing polycan we worked with a John Deere 5055E tractor. John Deere provides on their website a list with diagnostic trouble codes which looks like the figure shows below:
-<div style="margin:0auto;"><img src="/images/troublecodeexample.png" alt="troublecode" width="500"/></div>
+
+![Trouble Code Example](/images/troublecodeexample.png)
 
 As you can see in this example, there are a few ways to force the tractor to output a trouble code. To find the equivalent CANBus command for the trouble code shown in the figure, we put the tractor in gear while startup which causes the tractor to not start up and generation an error code. This log was compared with a log recorded while a normal engine start of the tractor. The idea to is to find a unique entry in those two logs. After the comparison on the two logs, there are a few unique entries which are in the log from the tractor in gear but not in the normal engine start log. A lot of there unique entries are parameters which change due to the running conditions, like engine temperature, oil pressure and engine rpm. By checking the unknown PGNs in the log, we found out that PGN 65226 stores the “Active Diagnostic Messages” and the Data code “01 FF F4 FE FF 00 FF FF” stores the diagnostic trouble code “PTI 523238.31”.
 <div style="margin:0auto;"><img src="/images/twocomparedlogs.png" alt="comparelogs" width="700"/></div>
