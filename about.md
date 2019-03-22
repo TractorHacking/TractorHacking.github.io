@@ -10,7 +10,7 @@ We are studying the CAN bus of John Deere tractors. If we can understand the com
 
 
 # Technical Documentation
-The first goal of this project was to get an idea of how the John Deere CAN bus works. We offer some technical documentation which details what we know about John Deere’s communication protocols. This documentation includes information about the CAN bus, the J1939 standard, connecting to a tractor, ECU internals, and common CAN bus commands. This was performed by the 2017-2018 iteration and is held under the 'Technical Documentation' tab. For more infomation about this part of the project email the team lead at [afite@calpoly.edu](emailto:afite@calpoly.edu)
+The first goal of this project was to get an idea of how the John Deere CAN bus works. We offer some technical documentation which details what we know about John Deere’s communication protocols. This documentation includes information about the CAN bus, the J1939 standard, connecting to a tractor, ECU internals, and common CAN bus commands. This was performed by the 2017-2018 iteration and is held under the 'Technical Documentation' tab. 
 
 # PolyCAN
 PolyCAN is a diagnostic tool that enables communication on the John Deere CAN bus. It allows anyone with a linux machine to record all messages on the CAN bus and analyze the payload of these messages. With PolyCAN, one can also send messages on the bus to communicate with the tractor computer systems. PolyCAN features a clear command line interface and features a variety of diagnostic tools. PolyCAN was developed by the 2018-2019 interation and is held under the 'PolyCAN' tab. 
