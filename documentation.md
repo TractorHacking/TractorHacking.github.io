@@ -4,7 +4,7 @@ title: Documentation
 permalink: /documentation/
 ---
 
-Documentation of our efforts to reverse engineer the John Deere CAN bus protocol can be found here.  This project is a *work in progress* through March 2018.
+Documentation of our efforts to reverse engineer the John Deere CAN bus protocol can be found here.  This documents work performed from September 2017 - March 2018.
 
 <ul>
 {% for item in site.documentation %}
