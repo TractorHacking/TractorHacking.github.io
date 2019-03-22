@@ -17,7 +17,7 @@ PolyCAN is a diagnostic tool that enables communication on the John Deere CAN bu
 
 [Getting started with PolyCAN](/polycan/) 
 
-[PolyCAN Developer Guide](/polycan/developer)
+[PolyCAN Developer Guide](/polycan/developer/)
 
 
 # GreenBoard
