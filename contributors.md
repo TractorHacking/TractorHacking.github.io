@@ -5,7 +5,7 @@ permalink: /contributors/
 ---
 # September 2018 - March 2019
 
-Maksim Bondaruk -  
+Maksim Bondaruk - [mbondaru@calpoly.edu](mailto:mbondaru@calpoly.edu)
 
 Sam Malicoat - 
 
