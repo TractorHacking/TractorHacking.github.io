@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Team logo](/images/logo.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oqHf6C9QBmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 John Deere has overly strict security on the electrical components of its tractor which doesn't allow the owner of a tractor to make simple repairs or upgrades without having a John Deere technician travel out and do it for them. For more reading see the list of articles below.
 
