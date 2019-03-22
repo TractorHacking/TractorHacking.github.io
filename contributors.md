@@ -11,7 +11,7 @@ Sam Malicoat -
 
 Morgan Swanson - [msswanso@calpoly.edu](mailto:msswanso@calpoly.edu) 
 
-Colin Weber - 
+Colin Weber - [colin@uni-bremen.de](mailto:colin@uni-bremen.de)
 
 
 
