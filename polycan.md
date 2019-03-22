@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PolyCAN
+title: Getting Started with PolyCAN
 permalink: /polycan/
 ---
 # Getting started with PolyCAN

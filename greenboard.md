@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GreenBoard
+title: Getting Started with GreenBoard
 permalink: /greenboard/
 ---
 # Getting started wtih GreenBoard
