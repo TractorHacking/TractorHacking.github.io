@@ -27,7 +27,7 @@ GreenBoard is the beginning of a tractor simulator program that lets us simulate
 
 [Greenboard Developer Guide](/greenboard/developer/)
 
-# Contact
+# Posters
 A poster explaining each iteration of the project for the Cal Poly Capstone Expo can be downloaded below:
    
    [2017-2018](/files/poster.pdf)

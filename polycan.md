@@ -16,9 +16,9 @@ PolyCAN runs on linux. If you do not have a linux machine, [you can use a virtua
 Once you have booted in a linux environment, you should have python 3 installed. If you do not have python 3, [download and install the latest version.](https://www.python.org/downloads/)
 Once you have a linux environment with python 3, open terminal and run the following command:
 	
-	$ pip install 
+	$ pip install git+https://github.com/Morgan-Swanson/polycan
 
-You should see the installation take place. Once it is finished, run the progrma with:
+You should see the installation take place. Once it is finished, run the program with:
     
 	$ polycan
 
