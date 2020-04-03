@@ -8,6 +8,7 @@ The PolyCan program integrates interaction with a CAN network via the CANable bo
 The part of the software that deals with the CANable board transfers data through .csv files with the format of our log files. Then once the software finishes listening to the CAN network it passes the .csv file to other parts of the code to perform all of the log analysis.
 
 <div style="margin:0auto;"><img src="/images/polycandeveloper.png" alt="polycanimplementation" width="700"/></div>
+<div style="margin:0auto;"><img src="/images/uml-diagram.png" alt="polycanimplementation" width="700"/></div>
 
 # Contents
 {: .no_toc}
