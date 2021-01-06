@@ -3,6 +3,10 @@ layout: page
 title: Contributors
 permalink: /contributors/
 ---
+# Current
+
+Morgan Swanson - [msswanso@calpoly.edu](mailto:msswanso@calpoly.edu)
+
 # September 2018 - March 2019
 
 Maksim Bondaruk - [mbondaru@calpoly.edu](mailto:mbondaru@calpoly.edu)
