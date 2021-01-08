@@ -3,10 +3,10 @@ layout: page
 title: Contributors
 permalink: /contributors/
 ---
-# Active Contributors 
+# Current Contributors 
 Morgan Swanson - [msswanso@calpoly.edu](mailto:msswanso@calpoly.edu)
 
-# Inactive Contributors
+# Past Contributors
 Maksim Bondaruk - [mbondaru@calpoly.edu](mailto:mbondaru@calpoly.edu)
 
 Sam Malicoat - [samlicoa@calpoly.edu](mailto:samlicoa@calpoly.edu)
