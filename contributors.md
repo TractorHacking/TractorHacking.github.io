@@ -3,10 +3,10 @@ layout: page
 title: Contributors
 permalink: /contributors/
 ---
-# Current Colaborators 
-Morgan Swanson - [msswanso@calpoly.edu](mailto:msswanso@calpoly.edu) Product Lead
+# Active Contributors 
+Morgan Swanson - [msswanso@calpoly.edu](mailto:msswanso@calpoly.edu)
 
-# Past Collaborators
+# Inactive Contributors
 Maksim Bondaruk - [mbondaru@calpoly.edu](mailto:mbondaru@calpoly.edu)
 
 Sam Malicoat - [samlicoa@calpoly.edu](mailto:samlicoa@calpoly.edu)
