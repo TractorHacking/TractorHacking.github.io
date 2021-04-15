@@ -5,6 +5,14 @@
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WCPVTHNMNS"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-WCPVTHNMNS');
+  </script>
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {% feed_meta %}
   {% if jekyll.environment == 'production' and site.google_analytics %}
