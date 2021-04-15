@@ -54,3 +54,6 @@ collections:
    idinfo:
       output: true
       title: ID Information
+
+# Google Analytics
+google_analytics: G-WCPVTHNMNS
