@@ -15,11 +15,11 @@ The project is through California Polytechnic State University's Capstone I/II c
 This project is open source, more information about the license can be found on our [About](/about/) page.
 
 ### Get Involved
-<form action="https://send.pageclip.co/teAvBVWNp1BPoIvGDPwzIPsNqx76zGHm" class="pageclip-form" method="post">
+<form action="https://send.pageclip.co/teAvBVWNp1BPoIvGDPwzIPsNqx76zGHm/get-involved" class="pageclip-form" method="post">
   <!-- Replace these inputs with your own. Make sure they have a "name" attribute! -->
   <input type="text" name="name" value="Roscoe Jones" />
   <input type="email" name="email" value="roscoe@example.com" />
-  <textarea name="body">Any additional information:</textarea>
+
   <!-- This button will have a loading spinner. Keep the inner span for best results. -->
   <button type="submit" class="pageclip-form__submit">
     <span>Send</span>
