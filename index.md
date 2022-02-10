@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-
+<body>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oqHf6C9QBmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -21,3 +21,5 @@ More reading on the subject can be found in the following articles:
 * [Wired: New High-Tech Farm Equipment Is a Nightmare for Farmers](https://www.wired.com/2015/02/new-high-tech-farm-equipment-nightmare-farmers/)
 * [Wired: WTF! It Should Not Be Illegal to Hack Your Own Car's Computer](https://www.wired.com/2015/01/let-us-hack-our-cars/)
 * [Vice Motherboard: Why American Farmers Are Hacking Their Tractors With Ukrainian Firmware](https://motherboard.vice.com/en_us/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware)
+<script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
+</body>
