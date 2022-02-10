@@ -1,12 +1,6 @@
 ---
 layout: home
 ---
-<head>
-  <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen">
-</head>
-<body>
-  <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
-</body>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oqHf6C9QBmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
