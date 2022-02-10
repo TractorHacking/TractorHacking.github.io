@@ -14,11 +14,11 @@ This project is open source, more information about the license can be found on 
 <form action="https://send.pageclip.co/teAvBVWNp1BPoIvGDPwzIPsNqx76zGHm/get-involved" class="pageclip-form" method="post">
   <!-- Replace these inputs with your own. Make sure they have a "name" attribute! -->
    Your Name:  
-  <input type="text" name="name" value="Roscoe Jones" />. 
+  <input type="text" name="name" value="" />. 
    Your Email:  
-  <input type="email" name="email" value="roscoe@example.com" />. 
+  <input type="email" name="email" value="" />. 
    Your Interest:  
-    <textarea name="body">Email body</textarea>. 
+    <textarea name="body"></textarea>. 
   <!-- This button will have a loading spinner. Keep the inner span for best results. -->
   <button type="submit" class="pageclip-form__submit">
     <span>Send</span>
